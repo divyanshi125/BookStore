@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    },
+    {
+        "id": 2,
+        "name": "LoveStory Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    },
+    {
+        "id": 3,
+        "name": "HorrorStory Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    },
+    {
+        "id": 4,
+        "name": "CrimeStory Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    },
+    {
+        "id": 5,
+        "name": "ThrillerStory Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWbscMzISxfj6as1OfBxGqfF6QJ8XHf_aEQ&s"
+    }
+]
